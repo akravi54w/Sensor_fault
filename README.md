@@ -1,0 +1,1 @@
+## This project helps to analyse faulty sensors
